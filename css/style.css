@@ -75,13 +75,13 @@ main{
 }
 .lista{
     position: relative;
-    margin-left: 250px;
+    margin-left: 230px;
     z-index: 2;
-    margin-top: 210px;
+    margin-top: 260px;
     font-size: 22px;
     font-weight: bold;
     font-family:'roboto', sans-serif;
-    line-height: 35px;  
+    line-height: 39px;  
 }
 h3{
     position: absolute;
